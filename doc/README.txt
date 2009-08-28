@@ -31,5 +31,5 @@ BUGS
 Please report any bugs at http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Pod-Simple-Vim
 
 
-Author: Petar Shangov
+Author: Peter Shangov
 Email: pshangov@yahoo.com

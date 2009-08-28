@@ -1,4 +1,4 @@
-"    Copyright: Copyright (C) 2008 Petar Shangov
+"    Copyright: Copyright (C) 2008 Peter Shangov
 "               Permission is hereby granted to use and distribute this code,
 "               with or without modifications, provided that this copyright
 "               notice is copied with it. Like anything else that's free,
@@ -10,8 +10,8 @@
 " Name Of File: perldoc2.vim
 "  Description: View POD in colour
 "   Maintainer: Petar Shangov <pshangov@yahoo.com>
-"  Last Change: 30.03.2009
-"      Version: 0.02
+"  Last Change: 2009 Aug 28
+"      Version: 0.03
 "        Usage: :Perldoc Module::Name
 
 function Perldoc (pod)

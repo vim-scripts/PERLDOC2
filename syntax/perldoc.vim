@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:	Perldoc file
-" Maintainer:	Petar Shangov (pshangov@yahoo.com)
-" Last Change:	2006 Apr 06
+" Maintainer:	Peter Shangov (pshangov@yahoo.com)
+" Last Change:	2009 Aug 28
 
 if version < 600
 	syntax clear
